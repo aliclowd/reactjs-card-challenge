@@ -1,0 +1,13 @@
+.card-challenge {
+  height: 100vh;
+  overflow-x: hidden;
+  &-row {
+    text-align: center;
+  }
+}
+.btnStyles {
+  height: 33px !important;
+  &:focus {
+    outline: none;
+  }
+}
